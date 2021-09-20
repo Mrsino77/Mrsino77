@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- Generated from loaded keyboard! (locale 0x0000001f) -->
+
+<keyboard
+    secondaryId="0x06"
+    primaryId="0x1f"
+    defaultLayoutWidth="480"
+    defaultLayoutHeight="296"
+    addAltChars="false"
+    >
+
+    <area conditionValue="0">
+
+        <key
+            keyLabel="1"
+            keyType="nonRegional"
+            keyLeft="6dp"
+            keyTop="9dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0031"
+        />
+
+        <key
+            keyLabel="2"
+            keyType="nonRegional"
+            keyLeft="124dp"
+            keyTop="9dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0032"
+        />
+
+        <key
+            keyLabel="3"
+            keyType="nonRegional"
+            keyLeft="242dp"
+            keyTop="9dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0033"
+        />
+
+        <key
+            keyType="function"
+            keyLeft="360dp"
+            keyTop="9dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0b78"
+        />
+
+        <key
+            keyLabel="4"
+            keyType="nonRegional"
+            keyLeft="6dp"
+            keyTop="81dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0034"
+        />
+
+        <key
+            keyLabel="5"
+            keyType="nonRegional"
+            keyLeft="124dp"
+            keyTop="81dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0035"
+        />
+
+        <key
+            keyLabel="6"
+            keyType="nonRegional"
+            keyLeft="242dp"
+            keyTop="81dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0036"
+        />
+
+        <key
+            keyType="function"
+            keyLeft="360dp"
+            keyTop="81dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0b79"
+        />
+
+        <key
+            keyLabel="7"
+            keyType="nonRegional"
+            keyLeft="6dp"
+            keyTop="153dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0037"
+        />
+
+        <key
+            keyLabel="8"
+            keyType="nonRegional"
+            keyLeft="124dp"
+            keyTop="153dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0038"
+        />
+
+        <key
+            keyLabel="9"
+            keyType="nonRegional"
+            keyLeft="242dp"
+            keyTop="153dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0039"
+        />
+
+        <key
+            keyType="function"
+            keyLeft="360dp"
+            keyTop="153dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0b7a"
+        />
+
+        <key
+            keyType="function"
+            keyLeft="6dp"
+            keyTop="225dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0b7b"
+        />
+
+        <key
+            keyLabel="0"
+            keyType="nonRegional"
+            keyLeft="124dp"
+            keyTop="225dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0030"
+        />
+
+        <key
+            keyType="function"
+            keyLeft="242dp"
+            keyTop="225dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0b7c"
+        />
+
+        <key
+            keyType="function"
+            keyLeft="360dp"
+            keyTop="225dp"
+            keyWidth="114dp"
+            keyHeight="66dp"
+            keyCodes="0x0b7d"
+        />
+
+    </area>
+
+</keyboard>
